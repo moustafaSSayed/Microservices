@@ -1,2 +1,3 @@
 # Microservices
-a Spring Boot microservices project consists of 3 main services (Job, Comapny, and Review). the Idea behind the project is these 3 services consuming each other using microservices and eureka server as each company can have one or many job, one or more review. the database used for this project is postgress.
+##Overview
+This project is a microservices-based application built with Spring Boot. It consists of three main services that work together to manage job listings, company profiles, and user reviews. The services communicate with each other using Eureka server for service discovery, and the data is stored in a PostgreSQL database.
